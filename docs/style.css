@@ -1,0 +1,21 @@
+body{
+    background: rgb(253, 220, 220);
+    background-image: url("21206.1.jpg") ;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#container{
+    width: 70%;
+    /*width: 110px;*/
+    margin: 0px auto;
+    border: 1px solid rgb(0, 0, 0);
+
+}
+header{
+    background: rgb(194, 32, 59) ;
+    height: 50px;
+    width: 1065px;
+    margin: 0px;
+    text-align: center;
+    line-height: 50px;
+    border-bottom: 3px solid black;
+}
